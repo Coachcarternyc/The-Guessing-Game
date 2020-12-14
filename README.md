@@ -1,2 +1,2 @@
 # The-Guessing-Game
-A mini game created using vanilla JS that asks the player which is the correct color from RGB.
+A grid based mini-game in vanilla JavaScript, HTML and CSS.
